@@ -11,7 +11,7 @@ email: japardorobles.contact@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal site where you can find some of my projects, enjoy it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://japardorobles.github.io" # the base hostname & protocol for your site
+url: "http://japardorobles.github.com" # the base hostname & protocol for your site
 github_username:  japardorobles
 
 # Build settings
